@@ -1,6 +1,9 @@
 # aikeyboard
 A customizable AI-powered keyboard for Android and iOS devices, providing a range of features and actions based on user prompts.
 
+**Preview:**
+![Prototype](Prototype1.jpg)
+
 **Features:**
 
 1. **Fully customizable**: Users can add or remove features and actions based on their needs.
